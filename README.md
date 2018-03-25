@@ -34,5 +34,3 @@ A Social Listening application that checks tone of tweets based on a certain Twi
   ```none
   node toneAnalyzer
   ```
-
-8. Point your browser to http://localhost:3000
